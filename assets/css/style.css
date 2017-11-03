@@ -1,4 +1,4 @@
-header {
+.header-1 {
 	background-color: #4aaaa5;
 	color: #ffffff;
 	width: 175px;
@@ -25,14 +25,14 @@ h3 {
 
 }
 
-ul {
+.ul-1 {
     list-style-type: none;
     margin: 0;
     padding: 0;
     color: #a1a6af;
 }
 
-li {
+.pic-links {
     display: inline;
     border-right: 1px solid;
     border-right-color: #f4f4f4;
@@ -58,7 +58,7 @@ a {
 	color: #a9a9a9;
 }
 
-p { 
+.bio-paragraph { 
 	margin-left: 25px;
 	margin-right: 25px;
 	color: #777777;
@@ -142,6 +142,7 @@ p {
 
 }
 
+
 .form {
 	margin-left: 25px;
 	color: #9f9eae;
@@ -153,10 +154,9 @@ p {
 	width: 595px;
 }
 
+/*Need assistance getting cursor to top of message box*/
 #form-message {
 	height: 165px;
-	vertical-align: text-top;
-
 }
 
 .submit-button {
@@ -168,7 +168,7 @@ p {
 	font-weight: normal;
 }
 
-.hr3 {
+.third-hr {
 	width: 500px;
 
 }
