@@ -96,7 +96,7 @@ a {
 	display: flex;
 	flex-wrap: wrap;
 	clear: both;
-	background-image: url("/Users/laurafleig/basic-portfolio/assets/images/background.png");
+	background-image: url("../images/background.png");
 	border-top-style: solid;
 	border-top-color: #a9a9a9;
 	border-top-width: 2px;
@@ -157,6 +157,7 @@ a {
 /*Need assistance getting cursor to top of message box*/
 #form-message {
 	height: 165px;
+
 }
 
 .submit-button {
